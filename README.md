@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Md Apon Ahmed</h1>
 <h3 align="center">I am an android application developer from Bangladesh</h3>
 
@@ -19,6 +20,7 @@
 <p align="left">
 <a href="https://t.me/apon105" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="ali" height="30" width="40" /></a>
 <a href="https://instagram.com/apon10406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apon10406" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100094350981741" target="blank"><img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="apon10406" height="30" width="40" /></a>
 </p>
 
 
@@ -63,6 +65,9 @@
      <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.svgrepo.com/show/374056/rust.svg" alt="Rust" width="40" height="40"/>
     </a> 
+     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="Rust" width="40" height="40"/>
+    </a> 
 </p>
 
 <p>
@@ -76,3 +81,4 @@
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apon06&" alt="apon06" />
 </p>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/662dfe9233b0bd83e7258d33?variant=light&roadmaps=flutter" alt="roadmap.sh"/></a>
