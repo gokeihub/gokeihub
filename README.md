@@ -81,4 +81,3 @@
 <p>
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apon06&" alt="apon06" />
 </p>
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/662dfe9233b0bd83e7258d33?variant=light&roadmaps=flutter" alt="roadmap.sh"/></a>
