@@ -12,7 +12,6 @@
 
 - 📫 How to reach me: **mdaponahmed412@gmail.com**
 
-- ⚡ Fun fact: **I develop Funny Projects**
 
 <h3 align="left">Connect with me:</h3>
 
