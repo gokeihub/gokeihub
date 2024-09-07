@@ -7,16 +7,17 @@
 
 - 💬 Ask me about **Flutter, jetpack Compose**
 
-- 📫 How to reach me: **mdaponahmed412@gmail.com**
+- 📫 How to reach me: **appgokeifeedback@gmail.com**
 
+<a ><img align="center" src="https://profile-readme-generator.com/assets/snake.svg" alt="ali"/></a>
 
 <h3 align="left">Connect with me:</h3>
-
 
 <p align="left">
 <a href="https://t.me/apon105" target="blank"><img align="center" src="https://www.svgrepo.com/show/452115/telegram.svg" alt="ali" height="30" width="40" /></a>
 <a href="https://instagram.com/apon10406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apon10406" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100094350981741" target="blank"><img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="apon10406" height="30" width="40" /></a>
+<a href="https://www.x.com/apon0666" target="blank"><img align="center" src="https://www.svgrepo.com/show/475689/twitter-color.svg" alt="apon0666" height="30" width="40" /></a>
 </p>
 
 
