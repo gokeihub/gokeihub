@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Md Apon Ahmed</h1>
 <h3 align="center">I am an android and maybe website  developer</h3>
 
 - 🌱 I’m currently learning **Svelte**
